@@ -1,11 +1,4 @@
-# ======================================================================
-# Copyright (c) 2025 SQL
-# PCA Lab, NJUST
-# All rights reserved.
 
-# This source code is licensed under the MIT license found in the
-# LICENSE file in the root directory of this source tree.
-# ======================================================================
 
 import torch
 import torch.nn as nn
